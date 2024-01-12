@@ -1,5 +1,6 @@
 <h3 align="center">Hi There👋 </h3>
-<h3 align="center">I'm a Font-End Developer and ComputerEngineer </h3>
+<h3 align="center">I'm a Font-End Developer and ComputerEngineer👩🏻‍💻 </h3>
+
 
 ### Languages and Tools
 
