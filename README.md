@@ -10,6 +10,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 
+### Socials
+
 <p align="left">
 <a href="https://www.github.com/zahrahoseinpour83" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/zahra-hoseinpour/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
