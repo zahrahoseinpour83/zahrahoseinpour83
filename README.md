@@ -1,5 +1,5 @@
-<h3 align="center">Hi There👋 </h3>
-<h3 align="center">I'm a Font-End Developer and SoftwareEngineer👩🏻‍💻 </h3>
+<h2 align="center">Hi There👋 </h2>
+<h2 align="center">I'm a Font-End Developer and SoftwareEngineer👩🏻‍💻 </h2>
 
 
 ### Languages and Tools
